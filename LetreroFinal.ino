@@ -129,7 +129,7 @@ String segundos;
 int contador, diferencia, ultimo = 0;//para el efecto toggle de los leds rojos del reloj cada segundo
 boolean state = false;
 
-//--------------------------------------------------------
+//---------------hay que hace racmbios aqui eliminar los strings-----------------------------------------
 const char texto_1[7] = "      ";
 const char texto_2[7] = "     T";
 const char texto_3[7] = "    TA";
